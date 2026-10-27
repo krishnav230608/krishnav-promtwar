@@ -1,0 +1,6 @@
+{
+  "name": "ShramikSetu - Frontline Workforce & Safety Portal",
+  "description": "Empowering frontline workers across construction sites and educational campuses with 1-tap punch-in, multilingual voice assistance (Tamil, Hindi, English), transparent wage calculation, anonymous hazard reporting, and fatigue tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
